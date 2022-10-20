@@ -1,0 +1,30 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: darksalmon;
+}
+.header{
+font-family: fantasy;
+font-style: normal;
+font-weight: 200;
+}
+
+img{
+    height: 300;
+    width: 340;
+    box-shadow: 0 6px 8px rgba(2, 2, 2, 0.2);
+}
+
+#camera{
+height: 400;
+width: 500;
+border-color: chocolate;
+}
+
+img:hover{
+    border-radius: 140;
+}
